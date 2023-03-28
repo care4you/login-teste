@@ -1,0 +1,12 @@
+.container__input {
+    display: grid;
+    text-align: left;
+    font-weight: 700;
+}
+
+.input {
+    padding: 0;
+    height: 45px;
+    box-sizing: border-box;
+    padding: 10px;
+}
