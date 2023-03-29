@@ -1,0 +1,25 @@
+#root {
+  max-width: 500px;
+  width: 50%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container__login{
+  width: 100%;
+}
+
+.formulario {
+  display: grid;
+  gap: 10px;
+  width: 100%;
+}
+
+.formulario__titulo {
+  margin-bottom: 15px;
+}
+
+.formulario .botao {
+  margin-top: 20px;
+}

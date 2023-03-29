@@ -10,3 +10,7 @@
     box-sizing: border-box;
     padding: 10px;
 }
+
+.input__titulo {
+    margin-bottom: 5px;
+}
